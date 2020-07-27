@@ -110,6 +110,7 @@ section {
   border: 0;
   background-color: black;
   color: #FFFFFF;
+  border-radius: 0;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
